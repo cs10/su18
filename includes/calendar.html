@@ -36,19 +36,19 @@
     <th>Readings</th>
     <th>Lectures</th>
     <th>Labs</th>
-    <th>Discussion</th>
+    <th>Discussions</th>
     <th>Due Dates/Notes</th>
   </tr>
 {% for week in weeks %}
   <tr>
-    <td rowspan = 2>{{ week.number }} </td>
+    <td rowspan = 4>{{ week.number }} </td>
 
-    <td rowspan = 2>{{ week.dates }}</td>
+    <td rowspan = 4>{{ week.dates }}</td>
 
     {% if week.readings == null %}
-      <td rowspan = 2>No Readings</td>
+      <td rowspan = 4>No Readings</td>
     {% else %}
-      <td rowspan = 2>
+      <td rowspan = 4>
         {% for reading in week.readings %}
           <a class="{% if reading.required %}required{% else %}optional{% endif %}"
              href="{{ reading.link }}">
@@ -91,34 +91,36 @@
       <td><a href = "{{ week.lab1.link }}">{{ week.lab1.title }}</a></td>
     {% endif %}
 
-    {% if week.disc == null %}
+    {% if week.disc1 == null %}
       <td class="cal-no-class" rowspan = 2>No Discussion</td>
     {% else %}
       <td rowspan = 2>
-        {% if week.disc.link == null %}
-          {{ week.disc.title }}
-        {% elsif week.disc.link != null %}
-          <a href= "{{ week.disc.link }}"> {{ week.disc.title }} </a>
+        {% if week.disc1.link == null %}
+          {{ week.disc1.title }}
+        {% elsif week.disc1.link != null %}
+          <a href= "{{ week.disc1.link }}"> {{ week.disc1.title }} </a>
         {% endif %}
-        {% if week.disc.solutions != null %}
-          <a href= "{{ week.disc.solutions }}"> (Solutions) </a>
+        {% if week.disc1.solutions != null %}
+          <a href= "{{ week.disc1.solutions }}"> (Solutions) </a>
         {% endif %}
-        {% if week.disc.demo != null %}
-          <a href= "{{ week.disc.demo }}"> (Demo) </a>
+        {% if week.disc1.demo != null %}
+          <a href= "{{ week.disc1.demo }}"> (Demo) </a>
         {% endif %}
-        {% if week.disc.slides != null %}
-            <a href= "{{ week.disc.slides }}"> (Slides) </a>
+        {% if week.disc1.slides != null %}
+            <a href= "{{ week.disc1.slides }}"> (Slides) </a>
         {% endif %}
       </td>
     {% endif %}
 
     {% if week.notes == null %}
-      <td class="cal-due-date" rowspan = 2></td>
+      <td class="cal-due-date" rowspan = 4></td>
     {% else %}
-      <td class="cal-due-date" style="vertical-align:top" rowspan = 2>
+      <td class="cal-due-date" style="vertical-align:top" rowspan = 4>
         <ul style="-webkit-padding-start: 20px">
         {% for note in week.notes %}
-          <li> {{ note.title }}
+          <br>
+          {{ note.title }}
+          <br>
           {% for l in note.links %}
             {% if l.link == null %}
             {{ l.title }}
@@ -126,7 +128,7 @@
             <a href="{{ l.link }}"> {{ l.title }}</a>
             {% endif %}
             {% endfor %}
-          </li>
+          <br>
         {% endfor %}
         </ul>
       </td>
@@ -166,9 +168,98 @@
       <td><a href = "{{ week.lab2.link }}">{{ week.lab2.title }}</a></td>
     {% endif %}
   </tr>
-{% endfor %}
 
   <tr>
+    {% if week.lect3 == null %}
+      <td class="cal-no-class">No Lecture</td>
+    {% elsif week.lect3.exam %}
+      <td class="cal-exam">{{ week.lect3.title }}</td>
+    {% elsif week.lect3.link == null %}
+      <td>
+        {% if week.lect3.guest-lecturer != null %}
+          <p>Guest Lecture: {{ week.lect3.guest-lecturer }}</p>
+        {% endif %}
+        {{ week.lect3.title }}
+      </td>
+    {% elsif week.lect3.link != null %}
+      <td>
+        {% if week.lect3.guest-lecturer != null %}
+          <p>Guest Lecture: {{ week.lect3.guest-lecturer }}</p>
+        {% endif %}
+        <a href = "{{ week.lect3.link }}">{{ week.lect3.title }}</a>
+      </td>
+    {% endif %}
+
+    {% if week.lab3 == null %}
+      <td class="cal-no-class">No Lab</td>
+    {% elsif week.lab3.work-session %}
+      <td class="cal-work-session">{{ week.lab3.title }}</td>
+    {% elsif week.lab3.exam %}
+      <td class="cal-exam">{{ week.lab3.title }}</td>
+    {% elsif week.lab3.link == null %}
+      <td>{{ week.lab3.title }} </td>
+    {% else %}
+      <td><a href = "{{ week.lab3.link }}">{{ week.lab3.title }}</a></td>
+    {% endif %}
+
+    {% if week.disc2 == null %}
+      <td class="cal-no-class" rowspan = 2>No Discussion</td>
+    {% else %}
+      <td rowspan = 2>
+        {% if week.disc2.link == null %}
+          {{ week.disc2.title }}
+        {% elsif week.disc2.link != null %}
+          <a href= "{{ week.disc2.link }}"> {{ week.disc2.title }} </a>
+        {% endif %}
+        {% if week.disc2.solutions != null %}
+          <a href= "{{ week.disc2.solutions }}"> (Solutions) </a>
+        {% endif %}
+        {% if week.disc2.demo != null %}
+          <a href= "{{ week.disc2.demo }}"> (Demo) </a>
+        {% endif %}
+        {% if week.disc2.slides != null %}
+            <a href= "{{ week.disc2.slides }}"> (Slides) </a>
+        {% endif %}
+      </td>
+    {% endif %}
+  </tr>
+
+  <tr>
+    {% if week.lect4 == null %}
+      <td class="cal-no-class">No Lecture</td>
+    {% elsif week.lect4.exam %}
+      <td class="cal-exam">{{ week.lect4.title }}</td>
+    {% elsif week.lect4.link == null %}
+      <td>
+        {% if week.lect4.guest-lecturer != null %}
+          <p>Guest Lecture: {{ week.lect4.guest-lecturer }}</p>
+        {% endif %}
+        {{ week.lect4.title }}
+      </td>
+    {% elsif week.lect4.link != null %}
+      <td>
+        {% if week.lect4.guest-lecturer != null %}
+          <p>Guest Lecture: {{ week.lect4.guest-lecturer }}</p>
+        {% endif %}
+        <a href = "{{ week.lect4.link }}">{{ week.lect4.title }}</a>
+      </td>
+    {% endif %}
+
+    {% if week.lab4 == null %}
+      <td class="cal-no-class">No Lab</td>
+    {% elsif week.lab4.exam %}
+      <td class="cal-exam">{{ week.lab4.title }}</td>
+    {% elsif week.lab4.work-session %}
+      <td class="cal-work-session">{{ week.lab4.title }}</td>
+    {% elsif week.lab4.link == null %}
+      <td>2. {{ week.lab4.title }} </td>
+    {% else %}
+      <td><a href = "{{ week.lab4.link }}">{{ week.lab4.title }}</a></td>
+    {% endif %}
+  </tr>
+{% endfor %}
+
+  <!-- <tr>
     <td>17</td>
     <td rowspan=2 colspan =6 text-align="center" class="cal-exam">
       Paper Final Exam
@@ -179,6 +270,6 @@
       <br>
       Good luck!
     </td>
-  </tr>
+  </tr> -->
 
 </table>
