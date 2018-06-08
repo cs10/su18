@@ -20,8 +20,8 @@ published: true
 
 ## Directions
 
-**All lab check-off deadlines are at 11:59PM.**
-(However, you need to get checked off by a TA or lab assistant, so you last chance to get checked off is during lab or office hours.)
+**All lab check-off deadlines are at 11:59PM exactly one week after the day you are assigned a lab. So if you were assigned a lab on a Monday, you have until the end of the following Monday to be checked off.**
+However, you need to get checked off by a TA or lab assistant, so your last chance to get checked off is during lab or office hours.
 
 To get checked off, you should prepare answers to the specific questions for each lab. You shouldn't feel compelled to memorize every single detail of lab. The goal here to make sure you're on track with CS10 and you should be comfortable with the higher level concepts for each question. For each lab the first questions are the biggest ideas, and the later questions are for your own benefit and review.
 
@@ -36,37 +36,34 @@ To get checked off, you should prepare answers to the specific questions for eac
 ## Quick Links
 
 * [Lab 1](#lab1) (Week 1)
-* [Lab 2](#lab2) (Week 2)
+* [Lab 2](#lab2) 
 * [Lab 3](#lab3)
-* [Lab 4](#lab4) (Week 3)
-* [Lab 5](#lab5)
-* [Lab 6](#lab6) (Week 4)
+* [Lab 4](#lab4) 
+* [Lab 5](#lab5) (Week 2)
+* [Lab 6](#lab6) 
 * [Lab 7](#lab7)
-* [Lab 8](#lab8) (Week 5)
-* [Lab 9](#lab9) (Week 6)
-* [Lab 10](#lab10) (Week 7)
+* [Lab 8](#lab8) (Week 3)
+* [Lab 9](#lab9)
+* [Lab 10](#lab10) (Week 4)
 * [Lab 11](#lab11)
-* [Lab 12](#lab12) (Week 8)
-* [Lab 13](#lab13) (Week 9)
-* [Lab 14](#lab14) (Week 10)
-* [Lab 15](#lab15) (Week 12)
+* [Lab 12](#lab12)
+* [Lab 13](#lab13) (Week 5)
+* [Lab 14](#lab14)
+* [Lab 15](#lab15) (Week 6)
 * [Lab 16](#lab16)
-* [Lab 17](#lab17) (Week 13)
-* [Lab 18](#lab18) (Week 14)
+* [Lab 17](#lab17) (Week 7)
+* [Lab 18](#lab18)
+* [Lab 19](#lab19)  
 </div>
 
 ---
 
 <div class="page-section" markdown="1">
 
-# Week 1: Lab 1: No check-off needed!
+# Week 1: Labs 1, 2, 3, 4
 
 ## Lab 1: Welcome to Netsblox<em>!</em>   {#lab1}
 * No questions for this lab!
-
----
-
-# Week 2: Labs 2 and 3
 
 ## Lab 2: Build Your Own Blocks {#lab2}
 
@@ -83,8 +80,6 @@ To get checked off, you should prepare answers to the specific questions for eac
 * Did you customize your flower block in any ways? Be creative.
 * Show your customized bug dance.
 
----
-
 ## Lab 3: Conditionals and Variables {#lab3}
 
 **Required**
@@ -99,10 +94,6 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 * Why do we use the `if` and `if-else` blocks?
 * When do you use a command block, and when do use use a reporter block?
-
----
-
-# Week 3: Labs 4 and 5
 
 ## Lab 4: Functions {#lab4}
 
@@ -119,6 +110,10 @@ To get checked off, you should prepare answers to the specific questions for eac
 * Why is the check block useful? And how does it work?
 * Why is the broadcast block useful? Give an example of a good situation to use one.
 
+---
+
+# Week 2: Labs 5, 6, and 7
+
 ## Lab 5: Lists 1 {#lab5}
 
 **Required**
@@ -134,11 +129,22 @@ To get checked off, you should prepare answers to the specific questions for eac
 * Look back at the `swap items` block. Why do we need a "temp" variable?
 * When would we want to use a loop versus a higher order function?
 
----
+## Lab 6: Tic-Tac-Toe, Boards {#lab6}
 
-# Week 4: Labs 6 and 7
+**Required**
 
-## Lab 6: Algorithms {#lab6}
+* Show your final “ttt” block implementation.
+* How did one of the questions we asked ourselves before starting tic-tac-toe help us design the program?
+* Why did we have variables like “Size”, “Start”, and “Display Width” when designing our board?
+* Show your working board game by moving the sprite around the board.
+* Explain an advantage of using an underlying board structure when designing a game.
+
+**More Self-Check Questions**
+
+* Show your neat end-game feature that you added to the maze game.
+
+
+## Lab 7: Algorithms {#lab7}
 
 **Required**
 
@@ -153,7 +159,11 @@ To get checked off, you should prepare answers to the specific questions for eac
 * What is memoization? When is it useful?
 * If you have an unsorted list, do you think it will be faster to use your “Find the number X in Unsorted List” block, or sort the list and use your “Find the number X in Sorted List”? Remember that sorting takes time.
 
-## Lab 7: Algorithm Complexity {#lab7}
+---
+
+# Week 5: Labs 8 and 9
+
+## Lab 8: Algorithm Complexity {#lab8}
 
 **Required**
 
@@ -168,11 +178,8 @@ To get checked off, you should prepare answers to the specific questions for eac
 * Why are constant time algorithms so rare?
 * Why are logarithmic time algorithms sought after?
 
----
 
-# Week 5: Lab 8
-
-## Lab 8: Testing Code and 2048 {#lab8}
+## Lab 9: Testing Code and 2048 {#lab9}
 
 **Required**
 
@@ -189,9 +196,38 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 ---
 
-# Week 6: Lab 9
+# Week 4: Labs 10, 11, and 12
 
-## Lab 9: Concurrency {#lab9}
+## Lab 10: Trees and Fractals Using Recursion {#lab10}
+
+**Required**
+
+* Please show me your “crazy-tree” block.
+* Why is it important that the inputs to a recursive call be smaller than the original inputs to the function?
+* Why is it important that the sprite face the same direction at the end of a recursive function as it faced initially?
+* What defines a recursive block? What are the two necessary “cases” that a recursive block must consider? Name and define them.
+* Please show me your “snowflake” block.
+
+**More Self-Check Questions**
+
+* Please shoe me your "C-Curve" block.
+
+## Lab 11: Recursive Reporters {#lab11}
+
+**Required**
+
+* Why do we map the first item of the set in front of a recursive call of `subsets _` over the rest of the list?
+* Explain why the second version of `subsets _` only makes 7 calls instead of 64.
+* Explain how the `sort _` block works, how the `merge _` block works, and how they work together.
+* Show us the recursive `numbers _` block.
+* Show us the recursive `ends-e _` block.
+
+**More Self-Check Questions**
+
+* Why might we want to write a function recursively instead of iteratively or using a HOF?
+* How might we be able to use recursive reporters to improve runtime?
+
+## Lab 12: Concurrency {#lab12}
 
 **Required**
 
@@ -208,60 +244,21 @@ To get checked off, you should prepare answers to the specific questions for eac
 
 ---
 
-# Week 7: Labs 10 and 11
+# Week 5: Labs 13 and 14
 
-## Lab 10: Tic-Tac-Toe, Boards {#lab10}
-
-**Required**
-
-* Show your final “ttt” block implementation.
-* How did one of the questions we asked ourselves before starting tic-tac-toe help us design the program?
-* Why did we have variables like “Size”, “Start”, and “Display Width” when designing our board?
-* Show your working board game by moving the sprite around the board.
-* Explain an advantage of using an underlying board structure when designing a game.
-
-**More Self-Check Questions**
-
-* Show your neat end-game feature that you added to the maze game.
-
-## Lab 11: Trees and Fractals Using Recursion {#lab11}
+## Lab 13: Finch Lab {#lab13}
 
 **Required**
 
-* Please show me your “crazy-tree” block.
-* Why is it important that the inputs to a recursive call be smaller than the original inputs to the function?
-* Why is it important that the sprite face the same direction at the end of a recursive function as it faced initially?
-* What defines a recursive block? What are the two necessary “cases” that a recursive block must consider? Name and define them.
-* Please show me your “snowflake” block.
+You can get checked off for this lab as long as you show up to lab and work on it. No questions!
+
 
 **More Self-Check Questions**
 
-* Please shoe me your "C-Curve" block.
+* What tests could you have written for HW2 (Encryptify)?
+* Explain how each of the HW3 blocks (that you are going to fill in as your  hw assignment) are supposed to work, to your lab partner(s).
 
----
-
-# Week 8: Lab 12
-
-## Lab 12: Recursive Reporters {#lab12}
-
-**Required**
-
-* Why do we map the first item of the set in front of a recursive call of `subsets _` over the rest of the list?
-* Explain why the second version of `subsets _` only makes 7 calls instead of 64.
-* Explain how the `sort _` block works, how the `merge _` block works, and how they work together.
-* Show us the recursive `numbers _` block.
-* Show us the recursive `ends-e _` block.
-
-**More Self-Check Questions**
-
-* Why might we want to write a function recursively instead of iteratively or using a HOF?
-* How might we be able to use recursive reporters to improve runtime?
-
----
-
-# Week 9: Lab 13
-
-## Functions as Data and HOFs {#lab13}
+## Lab 14: Functions as Data and HOFs {#lab14}
 
 **Required**
 
@@ -277,23 +274,9 @@ To get checked off, you should prepare answers to the specific questions for eac
 * How can we store functions as variables or lists? When might it be useful to have a list containing functions?
 * What is the domain and range of the `compose` block? How would you construct the `compose-from-list` block?
 
-------
-
-# Week 10: Lab 14
-
-## Lab 14: Finch Lab {#lab14}
-
-**Required**
-
-You can get checked off for this lab as long as you show up to lab and work on it. No questions!
-
 ---
 
-# Week 11: Spring Break
-
----
-
-# Week 12: Labs 15 and 16
+# Week 6: Labs 15 and 16
 
 ## Lab 15: Besides Blocks: Welcome to Python {#lab15}
 
@@ -329,7 +312,7 @@ You can get checked off for this lab as long as you show up to lab and work on i
 
 ---
 
-# Week 13: Lab 17
+# Week 7: Labs 17, 18, and 19
 
 ## Lab 17: Besides Blocks: Text Processing in Python {#lab17}
 
@@ -346,10 +329,6 @@ You can get checked off for this lab as long as you show up to lab and work on i
 * Complete the remove punctutaion section at the bottom of the Counting Words page.
 * Write the `top_n_words_except` function at the bottom of the Top Words page.
 
-------
-
-# Week 14: Lab 18
-
 ## Lab 18: Besides Blocks: Data and Python {#lab18}
 
 **Required**
@@ -359,7 +338,15 @@ You can get checked off for this lab as long as you show up to lab and work on i
 * What commands did you use to find the price of the most expensive listing in San Francisco?
 * Show us your scatter plot? What are some things you notice from this plot?
 
-------
+## Lab 19: Besides Blocks: OOP in Python {#lab19}
+
+**TBD**
+
+---
+
+# Week 8: No labs
+
+---
 
 <!-- Keep the /div at the bottom -->
 </div>
