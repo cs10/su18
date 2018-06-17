@@ -58,7 +58,7 @@ var kathleenGao = {
     name: 'Reader Kathleen Gao',
     imgSrc: '../Sp18/las/KathleenGao.jpg',
     imgCrazy: '../Sp18/las/KathleenGaoCrazy.jpg',
-    img: 'KathleenGao.jpg'
+    img: 'KathleenGao.jpg',
     bio: 'KathleenBio'
 };
 
@@ -67,7 +67,7 @@ var murtazaAli = {
     name: 'Head LA Murtaza Ali',
     imgSrc: '../Sp18/las/MurtazaAli.jpg',
     imgCrazy: '../Sp18/las/MurtazaAliCrazy.jpg',
-    img: 'MurtazaAli.jpg'
+    img: 'MurtazaAli.jpg',
     bio: 'MurtzBio'
 };
 
