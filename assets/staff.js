@@ -21,6 +21,14 @@ var schuylerR = {
 
 // TAs
 
+var niketK = {
+    name: 'Head TA Niket Kulkarni',
+    imgSrc: '../Fa17/NiketKulkarni.jpg',
+    img: 'NPY.jpg.jpg',
+    bio: 'NiketBio',
+    email: 'niket@cs10.org'
+};
+
 var jessicaG = {
     name: 'TA Jessica Gao',
     imgSrc: '../Fa17/JessicaGao.jpg',
@@ -39,14 +47,6 @@ var maxsonY = {
 
 // Readers
 
-var niketK = {
-    name: 'Head Reader Niket Kulkarni',
-    imgSrc: '../Fa17/NiketKulkarni.jpg',
-    img: 'NPY.jpg.jpg',
-    bio: 'NiketBio',
-    email: 'niket@cs10.org'
-};
-
 var brianaO = {
     name: 'Reader Briana Ong',
     imgSrc: '../Fa17/LAs/BrianaOng.jpg',
@@ -59,6 +59,7 @@ var kathleenGao = {
     imgSrc: '../Sp18/las/KathleenGao.jpg',
     imgCrazy: '../Sp18/las/KathleenGaoCrazy.jpg',
     img: 'KathleenGao.jpg'
+    bio: 'KathleenBio'
 };
 
  // Lab Assistants
@@ -67,6 +68,7 @@ var murtazaAli = {
     imgSrc: '../Sp18/las/MurtazaAli.jpg',
     imgCrazy: '../Sp18/las/MurtazaAliCrazy.jpg',
     img: 'MurtazaAli.jpg'
+    bio: 'MurtzBio'
 };
 
 var aarishIrfan = {
@@ -375,8 +377,8 @@ var yifeiZheng = {
 /*****************************************************************************/
 
 var inst = [ jobelV, schuylerR ];
-var tas = [ jessicaG, maxsonY];
-var readers = [ niketK, brianaO, kathleenGao];
+var tas = [ niketK, jessicaG, maxsonY];
+var readers = [ brianaO, kathleenGao];
 
 var las = [ murtazaAli ]
             // , aarishIrfan, aaronBaker, abbyC, alyssaLo, alyssaSugarman, audreyMa, austinChang, avikSethia,

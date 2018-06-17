@@ -4,7 +4,22 @@
 
 - number: 1
   dates: 6/18 to 6/22
-  readings: null
+  readings:
+    - title: Introduction to Abstraction
+      required: true
+      link: http://cs10.org/su18/assign.html?//docs.google.com/document/d/1PZJ_LYYWRYu12cTbBKF9IyY4BqEG-BibgisBoQn9BpY/pub
+    - title: Learning to Code!
+      required: true
+      link: https://www.youtube.com/watch?v=dU1xS07N-FA
+    - title: Program or Be Programmed
+      required: true
+      link: https://www.youtube.com/watch?v=imV3pPIUy1k
+    - title: Is Abstraction the Key to Computing?
+      required: false
+      link: https://bcourses.berkeley.edu/courses/1472250/files/folder/Readings?preview=73226506
+    - title: Scratch&#58; Programming for All
+      required: false
+      link: https://bcourses.berkeley.edu/courses/1472250/files/folder/Readings?preview=73226512
   lect1:
     title: Welcome and Abstraction
     link: null
@@ -28,7 +43,7 @@
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/3-conditionals-netsblox.topic&course=cs10_sp18.html&novideo&noreading&noassignment
   lab4:
     title: 4. Abstraction
-    link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/4-abstraction-testing.topic&course=cs10_fa17.html&novideo&noreading&noassignment
+    link: https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/4-abstraction-testing-netsblox.topic&course=cs10_sp18.html&novideo&noreading&noassignment
   disc1:
     title: Welcome to CS10!
     link: null
@@ -43,13 +58,13 @@
     - title: HW0 due 6/22
       links:
         - title: (submit)
-          link: null
+          link: https://bcourses.berkeley.edu/courses/1472250/quizzes/2280045
     - title: HW1 due 6/25
       links:
         - title: (spec)
-          link: null
+          link: http://cs10.org/su18/assign.html?https://docs.google.com/document/d/e/2PACX-1vRCztmBN_bwPp6mEKoTylBFBuNP7eY3fEx8wpp7vebiXwLGTFz-Q0YN3O7wT_6DxnFTGAeqiPT5109k/pub
         - title: (submit)
-          link: null
+          link: https://bcourses.berkeley.edu/courses/1472250/assignments/7893450
 
 #######################################################
 ###################### WEEK 2 #########################
@@ -111,7 +126,7 @@
     title: Testing and HW3
     link: null
   lect2:
-    title: TBD
+    title: Cyberpolitics
     link: null
   lect4:
     title: Recursion 1
@@ -162,7 +177,8 @@
     guest-lecturer: Kathy Yelick
     link: null
   lect4:
-    title: TBD
+    title: Computing and the Environment
+    guest-lecturer: Maxson Yang
     link: null
   lab1:
     title: 10. Trees and Fractals Using Recursion
@@ -211,7 +227,8 @@
     title: Object-Oriented Programming (OOP)
     link: null
   lect4:
-    title: TBD
+    title: Artificial Intelligence
+    guest-lecturer: Anwar Baroudi
     link: null
   lab1:
     title: In-Lab Midterm

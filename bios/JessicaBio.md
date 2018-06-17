@@ -2,7 +2,7 @@
 I grew up in San Francisco. I didn't want to come to Cal, because it is too close to home, but I ended up loving it here!
 
 ## HOW MUCH PROGRAMMING HAVE YOU DONE (& WHAT LANGUAGES)?
-I took CS 10, CS 61a, CS 8, and I am taking CS 61b this semester. So I've worked with mainly Python, but I am excited to be learning Java this semester.
+I took CS 10, CS 61a, CS 8, and CS 61b. So I've worked with mainly Python, but also Java. 
 
 ## WHAT ARE YOUR HOBBIES?
 Reading, music, martial arts, apologetics 
@@ -14,4 +14,4 @@ Uhh...
 I once made chocolate-covered jalepenos with white pepper for April Fools and gave it to some friends...it was awesome. 
 
 ## WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
-Besides for CS10, CS61b and my work at ETS will be consuming my time. 
+Besides for CS10, my work at ETS will be consuming my time.

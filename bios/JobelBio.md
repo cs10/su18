@@ -19,24 +19,24 @@ but it ended up being my choice.
 ## HOW MUCH PROGRAMMING HAVE YOU DONE (& WHAT LANGUAGES)?
 
 I began with Snap! (I had no programming experience throughout all of 
-grade school). Since then, I learned Python, Scheme, Java, C, some 
-Assembly, and some C++. I have also been learning a bit of HTML and CSS 
-in order to handle some of the web development for this course.
+grade school). Since then, I learned Python, Scheme, Java, C, C++, JavaScript, 
+HTML/CSS, some Assembly, and some SQL.
 
 ## WHAT ARE YOUR HOBBIES?
 
-It's fall again so I'm excited for college football. I love good television -- 
-I grew up on Star Trek: The Next Generation (subsequently indoctrinating me 
-with a humanist disposition). I generally enjoy fantasy, science fiction, and
-drama. I used to write a lot of poetry and some short fiction. I lost the
-the knack for both when I started college. I started writing short fiction
-again. When I'm stressed out I break out my electric guitar and play (poorly).
+I love good television -- I grew up on Star Trek: The Next Generation (subsequently 
+indoctrinating me with a humanist disposition). I generally enjoy fantasy, science 
+fiction, and drama. I write short stories and creative nonfiction, and am currently
+working on a couple of writing projects which I hope to complete by the end of the
+summer. I also enjoy reading fiction, nonfiction (political theory in particular), 
+and taking part in political activism. Recently I am looking to get immersed in the
+SF local music scene (if you have recommendations I'm happy to hear them!) When I'm 
+stressed out I break out my electric guitar and play (poorly).
 
 ## WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
 
-This semester, I am taking Cyberwar, Introduction to the Internet, Introduction
-to the Archeology of the Greek World, Personal Finance, and my Poli Sci Thesis
-seminar. Generally I'll be working on my thesis throughout the year. I also work 
-as a student assistant at the Center for Long-Term Cybersecurity on-campus. I 
-might begin applying for jobs and/or graduate school depending on which direction 
-I decide to take soon.
+Tormenting my students (just kidding...mostly). I am going to be teaching this class, 
+interning at PayPal, taking a class on digital education learning envrionments, and
+working on a short story or two. I am also currently working on a research proposal 
+and trying to figure out what to do now that I graduated (or, in other words, find 
+some semblance of direction in life).

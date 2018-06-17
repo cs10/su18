@@ -14,4 +14,4 @@ Once upon a time, I was a young high school student with a lot of talents: playi
 During my freshman year I joined an Ultimate Frisbee team and discovered that I am even less athletic than I previously thought. Over the course of two semesters, I managed to break my nose, injure my foot, sustain a contusion in my knee, and get two (yes, two) hernias. At the end of the year I won an award for “Most Likely to be Injured.”
 
 ## WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
-Let’s see...taking three classes, teaching CS10, participating in a few clubs, doing research, and cooking weekly meals for over one hundred people at my co-op. It will be a busy semester, but it should also be incredibly fun!
+Let’s see…teaching CS 10, teaching a couple of SAT prep courses, and doing research with Goodly Labs on police-protester interactions. Occasionally I may also try to eat and/or sleep. It will be a busy summer, but it should also be incredibly fun!

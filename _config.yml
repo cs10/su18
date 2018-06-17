@@ -19,9 +19,9 @@ sass:
     sass_dir: assets/_sass
 
 # Custom Data
-bCourses: 1469192
+bCourses: 1472250
 labsCourse: cs10_su18.html
-piazzaURL: berkeley/spring2018/compsci10/home
+piazzaURL: berkeley/summer2018/cs10/home
 # IS INST DOWN?
 labsurl: http://beautyjoy.github.io/bjc-r
 # labsurl: https://inst.eecs.berkeley.edu/~cs10/labs
@@ -33,7 +33,7 @@ endDate:   2018-08-11 # Last Saturday
 
 # Change the calendar to show Sun-Sat instead of M-F when an exam is near
 #questDate: 2016-09-21
-midtermDate: 2018-06-16
+midtermDate: 2018-07-16
 finalDate: 2018-08-09
 
 # from console.developers.google.com
