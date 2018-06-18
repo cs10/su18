@@ -14,4 +14,4 @@ I play piano, french horn, mellophone, and am currently learning guitar.
 My freshman year I had the chance to perform in the Super Bowl 50 halftime show with Coldplay, Beyoncé, and Bruno Mars! I've clung to that that as my go to fun fact ever since.
 
 ## WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
-Some cool classes I’m taking this semester are CS 161 (Computer Security), CS 170 (Algorithms), and Music 142 (Wind Ensemble). Other than that I’ll be doing some more coding for Cal Band and looking for internships!
+This summer I’m taking CS 188 (Artificial Intelligence) and working on a new website that Cal Band will use to chart their halftime/pregame shows!
