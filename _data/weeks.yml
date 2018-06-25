@@ -85,6 +85,9 @@
     - title: The Real 10 Algorithms that Dominate Our World
       required: false
       link: https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04
+    - title: The Story of Alan Turing and His Machine
+      required: false
+      link: https://www.youtube.com/watch?v=CQhrMmbiaM0&feature=youtu.be
   lect1:
     title: Mutability
     link: null
