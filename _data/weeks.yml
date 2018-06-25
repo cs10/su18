@@ -72,7 +72,10 @@
 
 - number: 2
   dates: 6/25 to 6/29
-  readings: null
+  readings:
+    - title: How Algorithms Shape Our World
+      required: True
+      link: https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world
   lect1:
     title: Mutability
     link: null
