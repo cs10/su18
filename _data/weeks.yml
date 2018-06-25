@@ -73,9 +73,18 @@
 - number: 2
   dates: 6/25 to 6/29
   readings:
+    - title: What is an Algorithm? (Excerpts)
+      required: true
+      link: https://bcourses.berkeley.edu/courses/1472250/files/folder/Readings?preview=73269520
     - title: How Algorithms Shape Our World
-      required: True
+      required: true
       link: https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world
+    - title: The 10 Algorithms that Dominate Our World
+      required: true
+      link: http://io9.gizmodo.com/the-10-algorithms-that-dominate-our-world-1580110464
+    - title: The Real 10 Algorithms that Dominate Our World
+      required: false
+      link: https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04
   lect1:
     title: Mutability
     link: null
