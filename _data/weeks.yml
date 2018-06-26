@@ -114,8 +114,8 @@
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   disc1:
     title: The Power of Binary
-    link: https://drive.google.com/file/d/1anBp_Lu-toA1wTI1Oc4mF5HGZ5qZ9GUl/view?usp=sharing
-    solutions: null
+    link: https://drive.google.com/file/d/1zr66uMRi_Pt3jIiYIqPTMBUxKLdYAcWh/view
+    solutions: https://drive.google.com/file/d/1da4rewrJrHw0v6PTId2jGcOh8uajLR53/view?usp=sharing
     demo: null
   disc2:
     title: Lists, Mutability, and HOFs
