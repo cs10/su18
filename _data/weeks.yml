@@ -89,11 +89,11 @@
       required: false
       link: https://www.youtube.com/watch?v=CQhrMmbiaM0&feature=youtu.be
   lect1:
-    title: Mutability
-    link: null
+    title: Scoping & Mutability
+    link: https://docs.google.com/presentation/d/1Yu71lseHBJlZ3kS0N4gP55XmXvVrZwC5lSs5zLGhHZ4/edit?usp=sharing
   lect2:
     title: Programming Paradigms
-    link: null
+    link: https://docs.google.com/presentation/d/1CVay935cmu7aq1ndt4-0Wq-g8ljwkFhYvJBlJXj9YHA/edit?usp=sharing
   lect3:
     title: Algorithms
     link: null
