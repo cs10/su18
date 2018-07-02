@@ -179,15 +179,15 @@
     - title: HW3 due 7/9
       links:
         - title: (spec)
-          link: null
-        - title: (submit)
-          link: null
-    - title: Midterm Proposal due 7/11
-      links:
-        - title: (spec)
           link: http://cs10.org/su18/assign.html?https://docs.google.com/document/d/e/2PACX-1vT-NDCsgEgZO6ZHSa9agvucioVgDuOFEouw6U3W7cPj7aesRnolCy6txlTouNtj8qyqCM-7hlz7CSFP/pub
         - title: (submit)
           link: https://bcourses.berkeley.edu/courses/1472250/assignments/7893452
+    - title: Midterm Project Proposal due 7/11
+      links:
+        - title: (spec)
+          link: null
+        - title: (submit)
+          link: null
 
 #######################################################
 ###################### WEEK 4 #########################
