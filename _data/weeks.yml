@@ -136,7 +136,22 @@
 
 - number: 3
   dates: 7/2 to 7/6
-  readings: null
+  readings: 
+    - title: Introduction to Test-Driven Development
+      required: true
+      link: https://www.codeenigma.com/community/blog/introduction-test-driven-development
+    - title: How an Entire Nation Became a Test Lab for Cyberwar
+      required: true
+      link: https://www.wired.com/story/russian-hackers-attack-ukraine/
+    - title: Cyberspace After Snowden
+      required: true
+      link: http://www.currenthistory.com/Deibert_CurrentHistory.pdf
+    - title: Present Shock - When Everything Happens Now
+      required: false
+      link: https://www.youtube.com/watch?v=_z2oFCR-0pc
+    - title: Fractals
+      required: false
+      link: https://natureofcode.com/book/chapter-8-fractals/
   lect1:
     title: Testing and HW3
     link: null
@@ -170,9 +185,9 @@
     - title: Midterm Proposal due 7/11
       links:
         - title: (spec)
-          link: null
+          link: http://cs10.org/su18/assign.html?https://docs.google.com/document/d/e/2PACX-1vT-NDCsgEgZO6ZHSa9agvucioVgDuOFEouw6U3W7cPj7aesRnolCy6txlTouNtj8qyqCM-7hlz7CSFP/pub
         - title: (submit)
-          link: null
+          link: https://bcourses.berkeley.edu/courses/1472250/assignments/7893452
 
 #######################################################
 ###################### WEEK 4 #########################
