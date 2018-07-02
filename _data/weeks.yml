@@ -137,15 +137,15 @@
 - number: 3
   dates: 7/2 to 7/6
   readings:
+    - title: Introduction to Test-Driven Development
+      required: true
+      link: https://www.codeenigma.com/community/blog/introduction-test-driven-development
     - title: How an Entire Nation Became a Test Lab for Cyberwar
       required: true
       link: https://www.wired.com/story/russian-hackers-attack-ukraine/
     - title: Cyberspace After Snowden
-      required: true
-      link: http://www.currenthistory.com/Deibert_CurrentHistory.pdf
-    - title: Introduction to Test-Driven Development
       required: false
-      link: https://www.codeenigma.com/community/blog/introduction-test-driven-development
+      link: http://www.currenthistory.com/Deibert_CurrentHistory.pdf
     - title: Present Shock - When Everything Happens Now
       required: false
       link: https://www.youtube.com/watch?v=_z2oFCR-0pc
