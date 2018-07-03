@@ -47,12 +47,12 @@
   disc1:
     title: Welcome to CS10!
     link: https://drive.google.com/file/d/1LuKXzIKcTHa9CAt6KUrC72rW7aDEiqOl/view?usp=sharing
-    solutions: null
+    solutions: https://docs.google.com/document/d/1c60qfxphMVrUp8xxqD3vf4REBIHlxIYLsyo_z2hRYQM/edit?usp=sharing
     demo: null
   disc2:
     title: Functions, Procedures, and Boolean Logic
     link: https://drive.google.com/file/d/1HJmBVZosso9NZp-xdiDcZfxBvhUZk9oT/view?usp=sharing
-    solutions: null
+    solutions: https://docs.google.com/document/d/1_rUlV--IeSBClVGY95HmmQfJ3699cX3v4-AVWF8xxk0/edit?usp=sharing
     demo: null
   notes:
     - title: HW0 due 6/22
