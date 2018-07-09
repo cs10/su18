@@ -195,20 +195,35 @@
 
 - number: 4
   dates: 7/9 to 7/13
-  readings: null
+  readings: 
+    - title: Computer Scientists May Have What it Takes to Cure Cancer
+      required: true
+      link: https://www.nytimes.com/2011/12/06/science/david-patterson-enlist-computer-scientists-in-cancer-fight.html
+    - title: How Coders Can Help Fight Climate Change
+      required: true
+      link: https://www.technologyreview.com/s/420595/how-coders-can-help-fight-climate-change/
+    - title: E-Waste Republic
+      required: true
+      link: https://interactive.aljazeera.com/aje/2015/ewaste/index.html
+    - title: Thomas Sterling Supercomputing Interview
+      required: false
+      link: https://www.top500.org/news/thomas-sterling-talks-exascale-chinese-hpc-machine-learning-and-non-von-neumann-architectures/
+    - title: DeepMind Reduces Google's Data Center Cooling Bill
+      required: false
+      link: https://deepmind.com/blog/deepmind-ai-reduces-google-data-centre-cooling-bill-40/
   lect1:
     title: Recursion 2
     link: null
-  lect2:
-    title: Concurrency
-    link: null
-  lect3: 
+  lect2: 
     title: Saving the World With Computing
     guest-lecturer: Kathy Yelick
     link: null
-  lect4:
+  lect3:
     title: Computing and the Environment
     guest-lecturer: Maxson Yang
+    link: null
+  lect4:
+    title: Concurrency
     link: null
   lab1:
     title: 10. Trees and Fractals Using Recursion
