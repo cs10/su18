@@ -239,13 +239,13 @@
     work-session: true
   disc1:
     title: Introduction to Recursion
-    link: null
-    solutions: null
+    link: https://drive.google.com/file/d/13v0oT5B4n3t8kncRUrn1EPFCzGprHBiJ/view?usp=sharing
+    solutions: https://drive.google.com/file/d/1YrgLSctBuMiRxdnR9VJyaD6xnelJcaCg/view?usp=sharing
     demo: null
   disc2:
     title: More Recursion
-    link: null
-    solutions: null
+    link: https://drive.google.com/file/d/1CVWE7ygzQF8I8eboN7QZoji6uSC81K3C/view?usp=sharing
+    solutions: 
     demo: null
   notes:
     - title: Social Implications Assignment 1 due 7/18
