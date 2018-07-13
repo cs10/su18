@@ -224,7 +224,7 @@
     link: https://docs.google.com/presentation/d/1VVxp2uVSHnONglciVju86a1rhcIYux42MxYp9ISYFmg/edit?usp=sharing
   lect4:
     title: Concurrency
-    link: null
+    link: https://docs.google.com/presentation/d/1xqQMvDq2zl2hjipNgOQyIcNx9XB-Pe9-StTBu7JPsho/edit?usp=sharing
   lab1:
     title: 10. Trees and Fractals Using Recursion
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=cs10_fa17.html&novideo&noreading&noassignment
@@ -251,9 +251,9 @@
     - title: Social Implications Assignment 1 due 7/18
       links:
         - title: (spec)
-          link: null
+          link: http://cs10.org/su18/assign.html?https://docs.google.com/document/d/e/2PACX-1vQ4AhMix1R7dj9hNEyHA39v7P92u65J3Q_PFVRZJNxGLXdYyHJTeXU66WEPhYKqbrK2pN0oLdRPmMfi/pub
         - title: (submit)
-          link: null
+          link: https://bcourses.berkeley.edu/courses/1472250/assignments/7899421
 
 #######################################################
 ###################### WEEK 5 #########################
