@@ -261,7 +261,13 @@
 
 - number: 5
   dates: 7/16 to 7/20
-  readings: null
+  readings:
+    - title: A World Without Work
+      required: true
+      link: http://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/
+    - title: Humans Need Not Apply
+      required: true
+      link: https://www.youtube.com/watch?v=7Pq-S557XQU
   lect1:
     title: Midterm Exam
     exam: true
