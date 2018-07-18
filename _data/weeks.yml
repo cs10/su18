@@ -272,8 +272,8 @@
     title: Midterm Exam
     exam: true
   lect2:
-    title: Functions as Data
-    link: null
+    title: Procedures as Data
+    link: https://docs.google.com/presentation/d/1NcgK0J8Kmz64Xac06_QqkcftJ5pUyuIl4I3n5m1TyGY/view?usp=sharing
   lect3:
     title: Object-Oriented Programming (OOP)
     link: null
