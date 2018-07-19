@@ -280,7 +280,7 @@
   lect4:
     title: Artificial Intelligence
     guest-lecturer: Anwar Baroudi
-    link: null
+    link: https://drive.google.com/file/d/1sAO6FV_tsP3crPK0bU7_1xC1K-MV8djA/view?usp=sharing
   lab1:
     title: In-Lab Midterm
     exam: true
@@ -307,9 +307,9 @@
     - title: Midterm Project due 7/23
       links:
         - title: (spec)
-          link: null
+          link: http://cs10.org/su18/assign.html?https://docs.google.com/document/d/e/2PACX-1vQ4AhMix1R7dj9hNEyHA39v7P92u65J3Q_PFVRZJNxGLXdYyHJTeXU66WEPhYKqbrK2pN0oLdRPmMfi/pub
         - title: (submit)
-          link: null
+          link: https://bcourses.berkeley.edu/courses/1472250/assignments/7899421
     - title: Final Project Proposal due 7/25
       links:
         - title: (spec)
