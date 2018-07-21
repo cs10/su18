@@ -295,7 +295,7 @@
     exam: true
   disc1:
     title: Midterm Review
-    link: null
+    link: https://drive.google.com/file/d/11EsprPNatUB-IqJAhKWoq_h41bv2z4Oh/view?usp=sharing
     solutions: null
     demo: null
   disc2:
@@ -349,7 +349,7 @@
     title: Final Project Work Session
     work-session: true
   disc1:
-    title: TBD
+    title: Project Design
     link: null
     solutions: null
     demo: null
