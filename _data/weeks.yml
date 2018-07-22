@@ -295,12 +295,12 @@
     exam: true
   disc1:
     title: Midterm Review
-    link: https://drive.google.com/file/d/11EsprPNatUB-IqJAhKWoq_h41bv2z4Oh/view?usp=sharing
+    link: null
     solutions: null
     demo: null
   disc2:
     title: Functions as Data
-    link: null
+    link: https://drive.google.com/file/d/11EsprPNatUB-IqJAhKWoq_h41bv2z4Oh/view?usp=sharing
     solutions: null
     demo: null
   notes:
