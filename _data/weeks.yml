@@ -285,7 +285,7 @@
     title: In-Lab Midterm
     exam: true
   lab2:
-    title: 13. Finch Lab
+    title: 13. Finch Lab (Extra Credit)
     link: http://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/robots/robots.topic&course=cs10_fa17.html&novideo&noreading&noassignment
   lab3:
     title: 14. Functions as Data and HOFs
@@ -301,7 +301,7 @@
   disc2:
     title: Functions as Data
     link: https://drive.google.com/file/d/11EsprPNatUB-IqJAhKWoq_h41bv2z4Oh/view?usp=sharing
-    solutions: null
+    solutions: https://drive.google.com/file/d/1QMtXzswMmNwCj6OzTQ3Tzbl8wz6MpDxJ/view?usp=sharing
     demo: null
   notes:
     - title: Midterm Project due 7/23
