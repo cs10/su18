@@ -325,10 +325,10 @@
   dates: 7/23 to 7/27
   readings: null
   lect1:
-    title: Python 1
+    title: Python 1&#58 Introduction
     link: https://docs.google.com/presentation/d/1y6EhZjNE4-sD9pgY1Bqg_q0KzHLo6DDEdH1Piogw60Y/edit?usp=sharing
   lect2:
-    title: Python 2
+    title: Python 2&#58 Data Structures
     link: null
   lect3:
     title: Algorithmic Bias
@@ -374,10 +374,10 @@
   dates: 7/30 to 8/3
   readings: null
   lect1:
-    title: Data Science in Python
+    title: Python 3&#58 Data Science
     link: null
   lect2:
-    title: OOP in Python
+    title: Python 4&#58 OOP
     link: null
   lect3:
     title: Limits of Computing
