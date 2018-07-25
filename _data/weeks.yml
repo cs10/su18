@@ -329,7 +329,7 @@
     link: https://docs.google.com/presentation/d/1y6EhZjNE4-sD9pgY1Bqg_q0KzHLo6DDEdH1Piogw60Y/edit?usp=sharing
   lect2:
     title: Python 2&#58 Data Structures
-    link: null
+    link: https://docs.google.com/presentation/d/1ikLpigBuQMQnM9p9DsH0zPZiqFx0_gXiJW4058a-LDQ/edit?usp=sharing
   lect3:
     title: Algorithmic Bias
     link: null
@@ -372,7 +372,13 @@
 
 - number: 7
   dates: 7/30 to 8/3
-  readings: null
+  readings:
+    - title: With Big Data, Comes Big Responsibility
+      required: true
+      link: https://hbr.org/2014/11/with-big-data-comes-big-responsibility
+    - title: In Cramped and Costly Bay Area, Cries to Build, Baby, Build
+      required: true
+      link: https://www.nytimes.com/2016/04/17/business/economy/san-francisco-housing-tech-boom-sf-barf.html?_r=0
   lect1:
     title: Python 3&#58 Data Science
     link: null
@@ -422,7 +428,16 @@
 
 - number: 8
   dates: 8/6 to 8/10
-  readings: null
+  readings:
+      - title: Massive Disruption is Coming With Quantum Computing
+        required: true
+        link: https://singularityhub.com/2016/10/10/massive-disruption-quantum-computing/#sm.00001xndocteqse2111aadjc34xzz
+      - title: Google is Sorry its Sentiment Analyzer is Biased
+        required: true
+        link: https://motherboard.vice.com/en_us/article/ne3nkb/google-artificial-intelligence-bias-apology
+      - title: Quantum Computing is the Next Big Security Risk
+        required: false
+        link: https://www.wired.com/story/quantum-computing-is-the-next-big-security-risk/
   lect1:
     title: Future of Computing
     link: null
