@@ -323,7 +323,22 @@
 
 - number: 6
   dates: 7/23 to 7/27
-  readings: null
+  readings:
+    - title: Algorithms Are Great and All, But They Can Also Ruin Lives
+      required: true
+      link: https://www.wired.com/2014/11/algorithms-great-can-also-ruin-lives/
+    - title: The Era of Blind Faith in Big Data Must End
+      required: true
+      link: https://www.ted.com/talks/cathy_o_neil_the_era_of_blind_faith_in_big_data_must_end
+    - title: Many Prison Inmates' Futures Depend on Racially Biased Algorithms
+      required: true
+      link: http://theweek.com/articles/627570/many-prison-inmates-futures-depend-racially-biased-algorithms
+    - title: Hacker Comments on "Algorithms Are Great and All..."
+      required: false
+      link: https://news.ycombinator.com/item?id=8630311
+    - title: Algorithmic Life
+      required: false
+      link: https://lareviewofbooks.org/article/algorithmic-life/
   lect1:
     title: Python 1&#58 Introduction
     link: https://docs.google.com/presentation/d/1y6EhZjNE4-sD9pgY1Bqg_q0KzHLo6DDEdH1Piogw60Y/edit?usp=sharing
