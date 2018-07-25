@@ -391,9 +391,12 @@
     - title: With Big Data, Comes Big Responsibility
       required: true
       link: https://hbr.org/2014/11/with-big-data-comes-big-responsibility
-    - title: In Cramped and Costly Bay Area, Cries to Build, Baby, Build
+    - title: The Rise of Human-Computer Cooperation
       required: true
-      link: https://www.nytimes.com/2016/04/17/business/economy/san-francisco-housing-tech-boom-sf-barf.html?_r=0
+      link: https://www.ted.com/talks/shyam_sankar_the_rise_of_human_computer_cooperation
+    - title: P vs. NP and the Computational Complexity Zoo
+      required: false
+      link: https://www.youtube.com/watch?v=YX40hbAHx3s&feature=youtu.be
   lect1:
     title: Python 3&#58 Data Science
     link: null
@@ -444,6 +447,9 @@
 - number: 8
   dates: 8/6 to 8/10
   readings:
+      - title: In Cramped and Costly Bay Area, Cries to Build, Baby, Build
+        required: true
+        link: https://www.nytimes.com/2016/04/17/business/economy/san-francisco-housing-tech-boom-sf-barf.html?_r=0
       - title: Massive Disruption is Coming With Quantum Computing
         required: true
         link: https://singularityhub.com/2016/10/10/massive-disruption-quantum-computing/#sm.00001xndocteqse2111aadjc34xzz
