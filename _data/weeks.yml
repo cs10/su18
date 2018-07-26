@@ -448,7 +448,7 @@
 - number: 8
   dates: 8/6 to 8/10
   readings:
-       - title: In Cramped and Costly Bay Area, Cries to Build, Baby, Build
+      - title: In Cramped and Costly Bay Area, Cries to Build, Baby, Build
         required: true
         link: https://www.nytimes.com/2016/04/17/business/economy/san-francisco-housing-tech-boom-sf-barf.html?_r=0
       - title: Massive Disruption is Coming With Quantum Computing
