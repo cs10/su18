@@ -351,7 +351,7 @@
     link: https://docs.google.com/presentation/d/1GOoLfFORI8NHie6C7c4eINz1ZiQWvIT5NCYna38QuIw/edit?usp=sharing
   lect4:
     title: CS10 Alumni Panel
-    link: null
+    link: https://docs.google.com/presentation/d/18IJg9u3n3UHesNC3EMgpNl-5t3ifEhHNoF7eX73O2ss/edit?usp=sharing
   lab1:
     title: Midterm Project Work Session
     work-session: true
@@ -421,8 +421,8 @@
     title: 19. Besides Blocks&#58 OOP in Python
     link: null
   lab4:
-    title: Social Implications Session 2
-    exam: true
+    title: Final Project Work Session
+    work-session: true
   disc1:
     title: Dictionaries and Recursion in Python
     link: null
@@ -434,7 +434,7 @@
     solutions: null
     demo: null
   notes:
-    - title: Social Implications Assignment 2 due 8/1
+    - title: Social Implications Assignment 2 due 8/3
       links:
         - title: (spec)
           link: null
@@ -480,6 +480,9 @@
     title: Final Project Work Session
     work-session: true
   lab3:
+    title: Final Exam Study Session
+    work-session: true
+  lab4:
     title: In-Lab Final
     exam: true
   disc1:
