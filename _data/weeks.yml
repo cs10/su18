@@ -395,17 +395,18 @@
     - title: The Rise of Human-Computer Cooperation
       required: true
       link: https://www.ted.com/talks/shyam_sankar_the_rise_of_human_computer_cooperation
-    - title: P vs. NP and the Computational Complexity Zoo
+    - title: Google is Sorry its Sentiment Analyzer is Biased
       required: false
-      link: https://www.youtube.com/watch?v=YX40hbAHx3s&feature=youtu.be
+      link: https://motherboard.vice.com/en_us/article/ne3nkb/google-artificial-intelligence-bias-apology
   lect1:
     title: Python 3&#58 Data Science
-    link: null
+    link: https://docs.google.com/presentation/d/1CXF6w0aCO40l7KP9yMJ94FnTJ57nckGFlbidg9k6jUo/edit?usp=sharing
   lect2:
     title: Python 4&#58 OOP
     link: null
   lect3:
-    title: Limits of Computing
+    title: Natural Language Processing
+    guest-lecturer: Nick Adams
     link: null
   lect4: 
     title: Human-Computer Interaction (HCI)
@@ -454,18 +455,17 @@
       - title: Massive Disruption is Coming With Quantum Computing
         required: true
         link: https://singularityhub.com/2016/10/10/massive-disruption-quantum-computing/#sm.00001xndocteqse2111aadjc34xzz
-      - title: Google is Sorry its Sentiment Analyzer is Biased
-        required: true
-        link: https://motherboard.vice.com/en_us/article/ne3nkb/google-artificial-intelligence-bias-apology
       - title: Quantum Computing is the Next Big Security Risk
         required: false
         link: https://www.wired.com/story/quantum-computing-is-the-next-big-security-risk/
+      - title: P vs. NP and the Computational Complexity Zoo
+        required: false
+        link: https://www.youtube.com/watch?v=YX40hbAHx3s&feature=youtu.be
   lect1:
-    title: Future of Computing
+    title: Limits of Computing
     link: null
   lect2:
-    title: Natual Language-Processing
-    guest-lecturer: Nick Adams
+    title: Future of Computing
     link: null
   lect3:
     title: Conclusion and Farewell
