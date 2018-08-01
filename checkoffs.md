@@ -340,7 +340,11 @@ You can get checked off for this lab as long as you show up to lab and work on i
 
 ## Lab 19: Besides Blocks: OOP in Python {#lab19}
 
-**TBD**
+* Describe the purpose of an __init__ function.
+* What takes precedence, an instance attribute or a class attribute?
+* Name two different ways to assign instance attributes.
+* Show us your 'outdated' and 'add_genre' methods. 
+* Show us your completed UCBMFET class.
 
 ---
 
