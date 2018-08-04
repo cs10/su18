@@ -426,13 +426,13 @@
     work-session: true
   disc1:
     title: Dictionaries and Recursion in Python
-    link: null
-    solutions: null
+    link: https://drive.google.com/file/d/1_-xgSvScT4DprwGg7I4rfEwvZFyaJehm/view?usp=sharing
+    solutions: https://drive.google.com/file/d/1tZcJ_bMqL9WQleSXKcJ9a1hAx0S8rbcl/view?usp=sharing
     demo: null
   disc2:
     title: List Comprehensions and Lambda Functions
-    link: null
-    solutions: null
+    link: https://drive.google.com/file/d/1_-xgSvScT4DprwGg7I4rfEwvZFyaJehm/view?usp=sharing
+    solutions: https://drive.google.com/drive/u/0/folders/1Wnxrt34Ohm0r2yitqriktWIyoqik6aW2
     demo: null
   notes:
     - title: Social Implications Assignment 2 due 8/3
