@@ -476,6 +476,11 @@
   lab1:
     title: Social Implications Session 2
     exam: true
+    links:
+      - title: (code)
+        link: https://drive.google.com/file/d/1gfrUzU37qBfExJqOXbLmSaWoPNSbgKsY/view?usp=sharing
+      - title: (notebook)
+        link: https://drive.google.com/file/d/1CQiZSOZ-O2AT2vnP1tvkHrwaYemegdnq/view?usp=sharing
   lab2:
     title: Final Project Work Session
     work-session: true
