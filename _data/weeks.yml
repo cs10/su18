@@ -441,6 +441,10 @@
           link: http://cs10.org/su18/assign.html?https://docs.google.com/document/d/e/2PACX-1vRuP8ADA-C_Qq8-cnQ-YiduONrFxmE5WrM0XNuYpmv6klH2ZtJyY3ehLkcMwfvXaSeHSlJeJ-mAZsf3/pub
         - title: (submit)
           link: https://bcourses.berkeley.edu/courses/1472250/assignments/7894015
+        - title: (code)
+          link: https://drive.google.com/file/d/1gfrUzU37qBfExJqOXbLmSaWoPNSbgKsY/view?usp=sharing
+        - title: (notebook)
+          link: https://drive.google.com/file/d/1CQiZSOZ-O2AT2vnP1tvkHrwaYemegdnq/view?usp=sharing
 
 #######################################################
 ###################### WEEK 8 #########################
@@ -476,11 +480,6 @@
   lab1:
     title: Social Implications Session 2
     exam: true
-    links:
-      - title: (code)
-        link: https://drive.google.com/file/d/1gfrUzU37qBfExJqOXbLmSaWoPNSbgKsY/view?usp=sharing
-      - title: (notebook)
-        link: https://drive.google.com/file/d/1CQiZSOZ-O2AT2vnP1tvkHrwaYemegdnq/view?usp=sharing
   lab2:
     title: Final Project Work Session
     work-session: true
