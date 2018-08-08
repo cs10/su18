@@ -491,8 +491,8 @@
     exam: true
   disc1:
     title: OOP in Python
-    link: null
-    solutions: null
+    link: https://drive.google.com/file/d/10e2u9vg1nfpfQEHavKgOG_KACP7vfRTq/view?usp=sharing
+    solutions: 
     demo: null
   disc2:
     title: Farewell and Final Review
