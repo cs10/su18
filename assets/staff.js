@@ -1,7 +1,7 @@
 // Instructors
 
 var jobelV = {
-    name: 'Dad',
+    name: 'Jobel Vecino',
     img: 'Jobel Vecino.jpg',
     imgSrc: '../Fa17/JobelVecinoNEW.jpg',
     web: 'https://www.linkedin.com/in/jobel-kyle-vecino-b2841879/',
